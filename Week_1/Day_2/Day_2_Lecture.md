@@ -36,3 +36,8 @@
 * Javascript:
     * Process.exit() to stop a process instead of using break
     * Don’t always need to use an else, can use console.log etc instead.
+
+### Links
+
+* [Code demo](https://github.com/DominicTremblay/w1d2-west-telus-nov14)
+* [Lecture recording](https://vimeo.com/771314762/1ee5c7dbce)
