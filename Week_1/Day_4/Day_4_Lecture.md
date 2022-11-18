@@ -15,3 +15,8 @@
     * More concise
     * Use when it makes sense
     * Can use implicit return with no {} for simple things
+
+### Links
+
+* [Code demo & notes](https://github.com/FrancisBourgouin/lectures-2022-telus-nov-14/tree/main/w1d4)
+* [Lecture recording](https://vimeo.com/772180103/529be6cfe6)
