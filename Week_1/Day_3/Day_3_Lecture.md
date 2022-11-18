@@ -37,3 +37,10 @@
             * for (let key in object) {return object[key][index]} will give you value of an array index if value is array
             * Object.keys or object.value
                 * think of Object.keys as giving you a ‘table of contents’ for the object
+
+### Links
+
+* [Code demo & notes](https://github.com/andydlindsay/telus-nov14-2022/tree/master/w01d03)
+* [Lecture recording](https://us02web.zoom.us/rec/play/qYl69imnuLH9v6guZkA7H2TSpXsCoatlbp8eZioiXxHzRNJEspbk7MQllySHBhIHK4YIeRtYGR9TB28k.l6GnWmCdfsnyJDzP?startTime=1668621240000&_x_zm_rtaid=bEffGVtJQw-Cwa5Z4DBGKw.1668736875233.cb39adb5f243287f4153f8b5f0b33be0&_x_zm_rhtaid=260)
+
+
