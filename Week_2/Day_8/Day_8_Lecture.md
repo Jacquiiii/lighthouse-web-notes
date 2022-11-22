@@ -1,4 +1,4 @@
-## Day 4 Lecture Notes: Nov 17, 2022
+## Day 8 Lecture Notes: Nov 21, 2022
 
 * Play the what is this game
     * Assignment operator is the equal sign
