@@ -2,5 +2,4 @@
 
 ### Links
 
-* [Code demo]()
-* [Lecture recording]()
+* [Lecture recording](https://vimeo.com/788784392/92fdaa5f14)
