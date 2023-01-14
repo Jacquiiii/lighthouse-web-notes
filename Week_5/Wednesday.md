@@ -1,4 +1,4 @@
-## Day 31 Lecture Notes: Dec 14, 2022
+## Lecture Notes: Dec 14, 2022
 
 ### Links
 

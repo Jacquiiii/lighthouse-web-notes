@@ -1,5 +1,9 @@
 ## Lecture Notes: Jan 11, 2022
 
+Main topics: 
+- Immutable Update Patterns
+- Updating Complex State
+
 ### Links
 
 * [Code demo](https://github.com/andydlindsay/telus-nov14-2022/tree/master/w07d03)
